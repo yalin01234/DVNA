@@ -18,7 +18,7 @@ The application comes with a **developer friendly comprehensive guidebook** whic
 
 The blog post for this release is at https://blog.appsecco.com/damn-vulnerable-nodejs-application-dvna-by-appsecco-7d782d36dc1e
 
-## Quick start
+## Quick start # 13/07/2021
 
 Try DVNA using a single command with Docker. This setup uses an SQLite database instead of MySQL.
 
